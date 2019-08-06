@@ -1,7 +1,7 @@
 # PROJECT-CODE-AND-POSTER-
 
 
-# paper
+# Paper
 # Dataset
 # Paper implimentaion python code
 # Partiatl presentation ppt
