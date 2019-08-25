@@ -3,7 +3,6 @@
 
 # Paper
 # Dataset
-# Paper implimentaion python code
-# Partiatl presentation ppt
+# Paper implimentaion using python 
 # final poster presentation
 ## in conclusion part by mistake i have written KNN regression insted of regression. please consider only regression. 
